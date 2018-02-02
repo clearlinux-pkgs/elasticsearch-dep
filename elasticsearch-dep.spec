@@ -1,7 +1,7 @@
 
 Name     : elasticsearch-dep
 Version  : 5.4.0
-Release  : 2
+Release  : 3
 URL      : https://jcenter.bintray.com/
 Source0 : https://jcenter.bintray.com/com/carrotsearch/randomizedtesting/junit4-ant/2.5.0/junit4-ant-2.5.0.pom
 Source1 : https://jcenter.bintray.com/com/carrotsearch/randomizedtesting/randomizedtesting-parent/2.5.0/randomizedtesting-parent-2.5.0.pom
